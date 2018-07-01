@@ -5,7 +5,7 @@
   "rules": {
     "arrow-return-shorthand": true,
     "callable-types": true,
-    "class-name": true,
+    "class-nome": true,
     "comment-format": [
       true,
       "check-space"
@@ -109,7 +109,7 @@
     ],
     "typeof-compare": true,
     "unified-signatures": true,
-    "variable-name": false,
+    "variable-nome": false,
     "whitespace": [
       true,
       "check-branch",
@@ -134,8 +134,8 @@
     "use-input-property-decorator": true,
     "use-output-property-decorator": true,
     "use-host-property-decorator": true,
-    "no-input-rename": true,
-    "no-output-rename": true,
+    "no-input-renome": true,
+    "no-output-renome": true,
     "use-life-cycle-interface": true,
     "use-pipe-transform-interface": true,
     "component-class-suffix": true,

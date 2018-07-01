@@ -1,0 +1,9 @@
+<div *ngIf="Cliente">
+  <h2>Cliente: {{ Cliente.nome | uppercase }}</h2>
+  <div><span>id: </span>{{Cliente.id}}</div>
+ <div>
+   <h1>Sabores:</h1>
+   <p>{{Cliente.sabores}}</p>
+ </div> 
+ <button (click)="goBack()">go back</button>
+</div>

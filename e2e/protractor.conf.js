@@ -9,7 +9,7 @@ exports.config = {
     './**/*.e2e-spec.ts'
   ],
   capabilities: {
-    'browserName': 'chrome',
+    'browsernome': 'chrome',
     // For Travis CI only
     chromeOptions: {
       binary: process.env.CHROME_BIN,
